@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/DiegoMP34/ArraysJS-con-platzi/issues"
   },
-  "homepage": "https://github.com/DiegoMP34/ArraysJS-con-platzi#readme"
+  "homepage": "https://github.com/DiegoMP34/ArraysJS-con-platzi#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
 }
