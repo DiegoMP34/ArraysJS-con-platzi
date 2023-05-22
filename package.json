@@ -1,0 +1,20 @@
+{
+  "name": "arraysjs-con-platzi",
+  "version": "1.0.0",
+  "description": "Aprendemos todo sobre la manipulacion de Arrays en Javscript con Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoMP34/ArraysJS-con-platzi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoMP34/ArraysJS-con-platzi/issues"
+  },
+  "homepage": "https://github.com/DiegoMP34/ArraysJS-con-platzi#readme"
+}
