@@ -17,7 +17,9 @@
     "url": "https://github.com/DiegoMP34/ArraysJS-con-platzi/issues"
   },
   "homepage": "https://github.com/DiegoMP34/ArraysJS-con-platzi#readme",
+  "type": "module",
   "dependencies": {
+    "date-fns": "^2.30.0",
     "http-server": "^14.1.1"
   }
 }
